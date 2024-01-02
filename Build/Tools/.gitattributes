@@ -1,0 +1,2 @@
+*.a -merge -text diff
+aarch64-none-elf-gdb.exe filter=lfs diff=lfs merge=lfs -text
