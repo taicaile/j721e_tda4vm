@@ -1,0 +1,36 @@
+
+Memstat for j721e a72 release build...
+
+Library Name                            :         CODE         DATA          BSS
+---------------------------------------------------------------------------------
+enet.aa72fg(a72)                        :       202813        67143          796
+enet_intercore.aa72fg(a72)              :          444       196712            0
+enetphy.aa72fg(mpu1_0)                  :        21084          322         4098
+enetsoc.aa72fg(mpu1_0)                  :         3979        80800            0
+fvid2.aa72fg(a72)                       :        21374         2256         7212
+ipc.aa72fg(mpu1_0)                      :        20026          444        10408
+ipc_baremetal.aa72fg(mpu1_0)            :        18643          444        10408
+pmic.aa72fg(a72)                        :        64059         1488            0
+pm_lib.aa72fg(a72)                      :         1744            0            0
+pm_lib_optimized.aa72fg(a72)            :         1744            0            0
+sciclient.aa72fg(mpu1_0)                :        45852          660          837
+sciclient_hs.aa72fg(mpu1_0)             :        45852          660          837
+ti.board.aa72fg(a72)                    :        73239        75078          972
+ti.csl.aa72fg(a72)                      :       232103         7300         8200
+ti.csl.init.aa72fg(a72)                 :         3560            0            0
+ti.drv.gpio.aa72fg(a72)                 :         4488        20672         1413
+ti.drv.i2c.aa72fg(a72)                  :         6880          672            4
+ti.drv.mcasp.aa72fg(a72)                :        23475           16          200
+ti.drv.mmcsd.aa72fg(a72)                :        16976          514         1032
+ti.drv.mmcsd.dma.aa72fg(a72)            :        16976          514         1032
+ti.drv.pruss.aa72fg(a72)                :         4120          496            0
+ti.drv.spi.aa72fg(a72)                  :        15044         5728            8
+ti.drv.spi.dma.aa72fg(a72)              :        19896         5728            8
+ti.drv.uart.aa72fg(a72)                 :        11899         1308           16
+ti.drv.uart_console.aa72fg(a72)         :         5695            0           16
+ti.drv.uart.dma.aa72fg(a72)             :        13967         1308           16
+ti.osal.nonos.aer5f(a72)                :         8381          658         2433
+udma.aa72fg(mpu1_0)                     :        75946          208            0
+---------------------------------------------------------------------------------
+Total Size                              :       980259       471129        49946
+---------------------------------------------------------------------------------

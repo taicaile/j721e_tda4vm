@@ -1,0 +1,37 @@
+
+Memstat for j721e c66x release build...
+
+Library Name                            :         CODE         DATA          BSS
+---------------------------------------------------------------------------------
+fvid2.ae66(c66)                         :        16992         8900         2736
+ipc.ae66(c66xdsp_1)                     :        20480         5666         8024
+ipc.ae66(c66xdsp_2)                     :        20480         5666         8024
+ipc_baremetal.ae66(c66xdsp_1)           :        18624         5490         8024
+ipc_baremetal.ae66(c66xdsp_2)           :        18624         5490         8024
+pmic.ae66(c66)                          :        75936         1920            0
+pm_lib.ae66(c66)                        :         1792           16            0
+pm_lib_optimized.ae66(c66)              :         1792           16            0
+sciclient.ae66(c66xdsp_1)               :        26752        21353           48
+sciclient.ae66(c66xdsp_2)               :        26752        21353           48
+sciclient_hs.ae66(c66xdsp_1)            :        26752        21353           48
+sciclient_hs.ae66(c66xdsp_2)            :        26752        21353           48
+ti.board.ae66(c66)                      :        81632        75464          214
+ti.csl.ae66(c66)                        :       281728        25564         1536
+ti.csl.init.ae66(c66)                   :            0            0            0
+ti.csl.intc.ae66(c66)                   :         6624           52           76
+ti.drv.gpio.ae66(c66)                   :         4736        20909         1152
+ti.drv.i2c.ae66(c66)                    :         8640          528            0
+ti.drv.mcasp.ae66(c66)                  :        30304          372           96
+ti.drv.spi.ae66(c66)                    :        16352         4692            0
+ti.drv.uart.ae66(c66)                   :        15744         1343            0
+ti.drv.uart_console.ae66(c66)           :         6912          148            0
+ti.drv.uart.dma.ae66(c66)               :        18304         1343            0
+ti.kernel.freertos.ae66(c66xdsp_1)      :        31904         1336        55380
+ti.kernel.freertos.ae66(c66xdsp_2)      :        31904         1336        55380
+ti.osal.ae66(c66)                       :        22720         3228        71940
+ti.osal.nonos.aer5f(c66)                :        11616         2673         1276
+udma.ae66(c66xdsp_1)                    :        75008        13992            0
+udma.ae66(c66xdsp_2)                    :        75040        13992            0
+---------------------------------------------------------------------------------
+Total Size                              :      1000896       285548       222074
+---------------------------------------------------------------------------------
