@@ -47,3 +47,7 @@ Use this instead,
 ```bat
 gmake all COMP=sbl CORE=mcu1_0 BOARD=j721e_evm SOC=j721e -j30 -s
 ```
+
+## TODO
+
+- [ ] Debug bin2c.exe, cannot generate the code file.
