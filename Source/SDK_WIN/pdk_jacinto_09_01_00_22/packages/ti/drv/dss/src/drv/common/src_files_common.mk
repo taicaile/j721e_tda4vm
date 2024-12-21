@@ -1,1 +1,0 @@
-SRCS_COMMON += dss_init.c dss_evtMgr.c

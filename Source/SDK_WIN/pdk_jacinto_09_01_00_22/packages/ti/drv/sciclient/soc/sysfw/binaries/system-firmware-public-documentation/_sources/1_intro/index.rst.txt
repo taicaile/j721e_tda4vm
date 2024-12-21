@@ -1,8 +1,0 @@
-#######################
-Chapter 1: Introduction
-#######################
-
-.. toctree::
-   :maxdepth: 1
-
-   TISCI

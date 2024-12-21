@@ -1,7 +1,0 @@
-===============================
-AM62X Proxy Device Descriptions
-===============================
-
-
-AM62X does not contain any Proxy devices
-

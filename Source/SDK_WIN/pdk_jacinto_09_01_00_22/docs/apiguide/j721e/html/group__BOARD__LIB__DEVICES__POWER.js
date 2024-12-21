@@ -1,4 +1,0 @@
-var group__BOARD__LIB__DEVICES__POWER =
-[
-    [ "TPS65941 PMIC Library", "group__BOARD__LIB__DEVICES__POWER__TPS65941.html", "group__BOARD__LIB__DEVICES__POWER__TPS65941" ]
-];
